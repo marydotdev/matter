@@ -26,7 +26,7 @@
 <nav>
     <div class="flex justify-between p-4">
 		<div class="text-2xl font-bold">
-			<a href="/">Super Simple Starter</a>
+			<a href="/">Matter JS Examples</a>
 		</div>
         <button on:click={toggleDarkMode}
 		class="p-2">
